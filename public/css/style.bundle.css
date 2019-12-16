@@ -8078,3 +8078,7 @@ body {
 
 }
 /*# sourceMappingURL=style.bundle.css.map*/
+
+#player .html5-video-player{
+	border-radius:10px;
+}
